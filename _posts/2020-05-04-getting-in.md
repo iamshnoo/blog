@@ -22,7 +22,7 @@ up worrying about what the final outcome looks like. For me, this meant waiting
 till 1800 hours UTC, which translates to around midnight in my timezone.
 
 The morning of Judgement Day was as per usual. Wake up at 5 am, when all of my
-peers are just going to bed, make some coffe and go into a code sprint till
+peers are just going to bed, make some coffee and go into a code sprint till
 about noon. That day I was working on a cool project, which I won't be
 describing in details in this post, but here is a picture to give you a glimpse
 at it.
