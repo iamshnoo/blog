@@ -12,7 +12,7 @@ hidden: false
 
 > Getting in is easier than getting out, they say. No one mentioned any context.
 
-I had applied for the Google Summer of Code prorgam for 2020. With nearly a
+I had applied for the Google Summer of Code program for 2020. With nearly a
 thousand lines of contribution to [mlpack's source code](https://github.com/mlpack/mlpack)
 and with a proposal nothing short of a miniature theses, I knew deep down I had
 done my part. Now, I just needed Lady Luck to do hers.
