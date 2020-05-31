@@ -6,7 +6,7 @@ categories: [ GSoC ]
 tags: [ GSoC 2020 ]
 image: assets/images/getting-in/unicorn.jpeg
 description: "The sea of emotions in getting selected for Google Summer of Code."
-featured: true
+featured: false
 hidden: false
 ---
 
