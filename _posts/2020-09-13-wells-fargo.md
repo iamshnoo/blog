@@ -37,8 +37,9 @@ completed the English section fairly easily before time, struggled a bit with
 the Business Analytics section, as I was mostly trying to solve them using
 common sense rather than having practiced them before. I definitely got a few
 questions incorrect in this section. In the coding section, we were given 2
-questions and around 1 hr of time. The first question was a simple variation of
-the ```merge overlapping intervals``` problem. The second one was based on
+questions and around 1 hr of time. The first question was a simple problem that
+required a stack-based solution, probably an easy LeetCode medium. The second
+one was based on
 optimising the flow in a graph. I solved the first question fairly quickly,
 struggled with the second one and could only pass half of the test cases in it,
 mainly because I hadn't revised graph based algorithms in a while. Overall, I
