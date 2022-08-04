@@ -6,8 +6,8 @@ categories: [ Experiences ]
 tags: [ Experiences ]
 image: assets/images/wells-fargo/me.jpg
 description: "Why are choices so tough to make!"
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 > Wells Fargo. Thank you, for taking a chance with me!😌

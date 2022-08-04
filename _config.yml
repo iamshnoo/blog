@@ -1,7 +1,7 @@
 # Site
-name: "Silent Musings"
-title: "Silent Musings"
-description: "Thoughts, stories and more."
+name: "shnooverse"
+title: "shnooverse"
+description: "welcome to my world :)"
 logo: 'assets/images/anjishnu.jpeg'
 favicon: 'assets/images/favicon.ico'
 baseurl: /blog
@@ -20,7 +20,7 @@ authors:
     email: mukherjee.anjishnu@gmail.com
     web: https://github.com/iamshnoo/
     twitter: https://twitter.com/iamshnoo
-    description: "CS undergrad. Working on cool ideas in Computer Vision ⋂ Computer Graphics."
+    description: "CS PhD student. Working on Fairness and Interpretability methods in NLP."
 
 # Plugins
 plugins:
