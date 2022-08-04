@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GSoC 22"
+title:  "GSoC-22"
 author: anjishnu
 categories: [ GSoC ]
 tags: [ GSoC 2022 ]
