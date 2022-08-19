@@ -105,8 +105,8 @@ Overall, this GSoC was amazing! My mentor, Ryan is absolutely the G.O.A.T.
 Couldn't have completed this smoothly without all his help!
 
 <div align="center">
-<img src="../assets/images/gsoc-22/goat.png">
-<p><b><i>Ryan is the G.O.A.T. (image generated using Dalle-mini)</i> 👀</b></p>
+<img src="../assets/images/gsoc-22/goat-dalle.png">
+<p><b><i>Ryan is the G.O.A.T. (image generated using Dalle, thank you Open AI for giving me access)</i> 👀</b></p>
 <p></p>
 </div>
 
